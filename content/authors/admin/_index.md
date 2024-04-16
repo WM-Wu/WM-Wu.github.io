@@ -112,5 +112,6 @@ highlight_name: false
 
 Welcome! I am now a postgraduate student in South China University of Technology, studying under the guidance of Professor Kang Wenxiong.    
 My main research interests lie in gait recognition, 3D perception and object detection.  
+  
 I’m open to colloboration. Feel free to drop me an email through 2825428081@qq.com.  
 {style="text-align: justify;"}

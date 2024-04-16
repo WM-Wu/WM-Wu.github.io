@@ -98,7 +98,7 @@ social:
     icon_pack: fab
     link: https://github.com/WM-Wu
 
-  # # Link to a PDF of your resume/CV.  #可以直接放个自己的简历
+  # # Link to a PDF of your resume/CV.  #可以直接放个自己的简历 22
   # # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # # and uncomment the lines below.
   # - icon: cv
@@ -109,7 +109,8 @@ social:
 highlight_name: false
 ---
 
-Welcome! I am now a postgraduate student in South China University of Technology, studying under the guidance of Professor Kang Wenxiong.  
+
+Welcome! I am now a postgraduate student in South China University of Technology, studying under the guidance of Professor Kang Wenxiong.    
 My main research interests lie in gait recognition, 3D perception and object detection.  
 I’m open to colloboration. Feel free to drop me an email through 2825428081@qq.com.  
 {style="text-align: justify;"}

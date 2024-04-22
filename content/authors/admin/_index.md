@@ -3,7 +3,7 @@
 title: 吴伟铭
 
 # Name pronunciation (optional)
-name_pronunciation: Wei Ming Wu
+name_pronunciation: Wu Wei Ming
 
 # Full name (for SEO)
 first_name: Wei Ming
